@@ -45,6 +45,12 @@
             { "fontFamily": "Pacifico, sans-serif", "slug": "m-pacifico", "name": "MyTDT Pacifico" }
           ]
         }
+      },
+      "core/preformatted": {
+        "typography": {
+          "fontSizes": [],
+          "customFontSize": false
+        }
       }
     },
     "border": {
