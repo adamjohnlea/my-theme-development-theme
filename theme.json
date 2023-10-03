@@ -21,7 +21,10 @@
         { "slug": "m-info", "color": "rgb(96 165 250)", "name": "MyTDT Info" },
         { "slug": "m-warning", "color": "rgb(251 146 60)", "name": "MyTDT Warning" },
         { "slug": "m-danger", "color": "rgb(255 14 14)", "name": "MyTDT Danger" }
-      ]
+      ],
+      "background": true,
+      "text": true,
+      "link": true
     },
     "blocks": {
       "core/site-title": {
@@ -29,7 +32,8 @@
           "defaultPalette": true,
           "palette": [
             { "slug": "m-primary", "color": "rgb(239 68 68)", "name": "MyTDT Primary" }
-          ]
+          ],
+          "link": true
         }
       }
     }
