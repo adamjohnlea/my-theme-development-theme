@@ -82,11 +82,12 @@
       "wideSize": "1100px"
     },
     "spacing": {
-        "padding": true,
-        "margin": true,
+      "padding": true,
+      "margin": true,
       "units": [
         "px", "rem", "vh", "vw", "%"
-      ]
+      ],
+      "blockGap": true
     }
   },
   "styles": {
@@ -137,7 +138,8 @@
         "right": "0px",
         "bottom": "0px",
         "left": "0px"
-      }
+      },
+      "blockGap": "4rem"
     }
   }
 }
