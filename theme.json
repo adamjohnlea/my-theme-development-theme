@@ -39,6 +39,11 @@
           "link": true,
           "gradients": [],
           "customGradient": false
+        },
+        "typography": {
+          "fontFamilies": [
+            { "fontFamily": "Pacifico, sans-serif", "slug": "m-pacifico", "name": "MyTDT Pacifico" }
+          ]
         }
       }
     },
@@ -47,6 +52,11 @@
       "radius": true,
       "style": true,
       "width": true
+    },
+    "typography": {
+      "fontFamilies": [
+        { "fontFamily": "Rubik, sans-serif", "slug": "m-rubik", "name": "MyTDT Rubik" }
+      ]
     }
   },
   "styles": {
