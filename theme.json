@@ -42,5 +42,12 @@
         }
       }
     }
-  }
+  },
+  "styles": {
+    "color": {
+      "text": "var(--wp--preset--color--m-gray-700)",
+      "background": "var(--wp--preset--color--m-white)"
+      }
+    }
 }
+
