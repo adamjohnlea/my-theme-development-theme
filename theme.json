@@ -98,7 +98,21 @@
           "style": "solid",
           "color": "var(--wp--preset--color--m-primary)"
         }
+      },
+      "core/site-title": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--m-pacifico)"
+        }
       }
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--m-rubik)",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "lineHeight": "inherit",
+      "textDecoration": "none",
+      "textTransform": "none"
     }
   }
 }
