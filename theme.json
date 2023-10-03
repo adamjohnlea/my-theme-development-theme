@@ -80,6 +80,10 @@
     "layout": {
       "contentSize": "800px",
       "wideSize": "1100px"
+    },
+    "spacing": {
+        "padding": true,
+        "margin": true
     }
   },
   "styles": {
@@ -117,6 +121,20 @@
       "lineHeight": "inherit",
       "textDecoration": "none",
       "textTransform": "none"
+    },
+    "spacing": {
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      }
     }
   }
 }
