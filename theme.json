@@ -47,7 +47,18 @@
     "color": {
       "text": "var(--wp--preset--color--m-gray-700)",
       "background": "var(--wp--preset--color--m-white)"
+      },
+    "elements": {
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--m-primary)"
+        }
+      }
+    },
+    "blocks" : {
+      "core/button" : {
       }
     }
+  }
 }
 
