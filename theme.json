@@ -83,7 +83,10 @@
     },
     "spacing": {
         "padding": true,
-        "margin": true
+        "margin": true,
+      "units": [
+        "px", "rem", "vh", "vw", "%"
+      ]
     }
   },
   "styles": {
