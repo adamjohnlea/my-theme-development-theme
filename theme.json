@@ -25,7 +25,9 @@
       "background": true,
       "text": true,
       "link": true,
-      "custom": true
+      "custom": true,
+      "defaultDuotone": false,
+      "defaultGradients": false
     },
     "blocks": {
       "core/site-title": {
@@ -34,7 +36,9 @@
           "palette": [
             { "slug": "m-primary", "color": "rgb(239 68 68)", "name": "MyTDT Primary" }
           ],
-          "link": true
+          "link": true,
+          "gradients": [],
+          "customGradient": false
         }
       }
     }
